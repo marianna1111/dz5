@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        //initialize
         int a = 5;
         int b = 7;
         int c = 9;
